@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-11-23T15:48:56.930Z",
+  "tutorial_id": "35373",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Berdasarkan materi, apa tujuan utama dari Artificial Intelligence (AI)?",
+      "choices": [
+        "Menggantikan semua pekerjaan manusia dengan robot.",
+        "Mengajarkan komputer untuk meniru perilaku manusia agar dapat belajar dan melakukan tugas tanpa bantuan eksplisit.",
+        "Meningkatkan kecepatan komputasi suatu sistem secara drastis.",
+        "Membuat komputer hanya dapat menyimpan data dalam jumlah yang sangat besar."
+      ],
+      "correct_index": 1,
+      "hint": "Fokus pada definisi awal AI dan kemampuan yang dimilikinya untuk meniru perilaku manusia."
+    },
+    {
+      "id": "q2",
+      "question": "Manakah pernyataan berikut yang paling tepat menggambarkan hubungan hierarkis antara Artificial Intelligence (AI), Machine Learning (ML), dan Deep Learning (DL)?",
+      "choices": [
+        "AI adalah bagian dari ML, dan ML adalah bagian dari DL.",
+        "ML adalah bagian dari AI, dan DL adalah bagian dari ML.",
+        "DL adalah bagian dari AI, dan AI adalah bagian dari ML.",
+        "AI, ML, dan DL adalah teknologi yang terpisah dan tidak saling berhubungan."
+      ],
+      "correct_index": 1,
+      "hint": "Perhatikan urutan 'bagian dari' dalam ringkasan materi, dimulai dari lingkup paling luas ke paling spesifik."
+    },
+    {
+      "id": "q3",
+      "question": "Apa kemampuan unik yang membedakan Generative AI dari bentuk Deep Learning lainnya, seperti yang dijelaskan dalam materi?",
+      "choices": [
+        "Kemampuan untuk mengidentifikasi pola dalam data yang sangat besar dengan cepat.",
+        "Kemampuan untuk membuat keputusan secara otonom berdasarkan pengalaman yang terbatas.",
+        "Kemampuan untuk menghasilkan berbagai konten baru seperti bahasa, kode, suara, dan gambar.",
+        "Kemampuan untuk belajar dan berkembang secara otomatis menggunakan metode statistika sederhana."
+      ],
+      "correct_index": 2,
+      "hint": "Cari kata kunci 'menghasilkan konten baru' dalam deskripsi Generative AI."
+    },
+    {
+      "id": "q4",
+      "question": "Apa yang menjadi dasar utama bagi Deep Learning (DL) seperti yang dijelaskan dalam materi ringkas?",
+      "choices": [
+        "Algoritma pembelajaran statistik tradisional.",
+        "Jaringan saraf tiruan (artificial neural networks).",
+        "Komputasi berbasis komputasi kuantum.",
+        "Sistem aturan logis yang telah diprogram secara eksplisit."
+      ],
+      "correct_index": 1,
+      "hint": "Perhatikan frasa kunci yang menjelaskan fondasi Deep Learning yang membedakannya dari ML secara umum."
+    }
+  ]
+}
